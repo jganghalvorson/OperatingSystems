@@ -3,3 +3,5 @@ The operating system keeps track of where information is stored and various user
 
 The operating system also handles the various inputs and outputs. The inputs and outputs can be mouses, controllers, montitors, etc.
 The OS interprets the inputs and outputs and interfaces them in the appropriate manner.
+
+The operating system finds any bugs and errors that can occur in various computing tasks. A secure OS can help prevent bugs and errors from crashing essential functions. 
