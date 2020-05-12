@@ -1,2 +1,5 @@
 Operating systems control file management on a computer. The OS stores information in easy to navigate applications and directories. 
 The operating system keeps track of where information is stored and various user setting associated to the particular files. 
+
+The operating system also handles the various inputs and outputs. The inputs and outputs can be mouses, controllers, montitors, etc.
+The OS interprets the inputs and outputs and interfaces them in the appropriate manner.
